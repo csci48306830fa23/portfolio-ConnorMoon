@@ -1,4 +1,4 @@
 # portfolio-ConnorMoon
-portfolio-ConnorMoon created by GitHub Classroom
+Connor Moon's portfolio for the UGA VR class of Fall 2023
 
-TEST 
+Site: https://LINK.com
