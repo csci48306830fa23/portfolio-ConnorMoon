@@ -1,0 +1,659 @@
+fileFormatVersion: 2
+guid: 8ddf5e9ae7a71c64eb75d3031d64020a
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.001
+    second: {fileID: 2100000, guid: 62d7cfcd816426a48875042ed1f670c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.002
+    second: {fileID: 2100000, guid: ba2278532478e284290295e21c011148, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.003
+    second: {fileID: 2100000, guid: a6befbe285fb4a44e8034781223e7aaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.004
+    second: {fileID: 2100000, guid: b60ed4432029f4e48bb28035f4b50df4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.005
+    second: {fileID: 2100000, guid: 75057fed637d9574381f2a3eb01a1f71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.006
+    second: {fileID: 2100000, guid: fe5d37ac2e679164f872f38e62b5749c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.007
+    second: {fileID: 2100000, guid: d93b117eb63484d4e80674e355c4dbba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.008
+    second: {fileID: 2100000, guid: 9a5861512d16142429a8bb00c3752b3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.009
+    second: {fileID: 2100000, guid: 724ba88bf9c738c40b7395304b0bc8e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.010
+    second: {fileID: 2100000, guid: 66ffae59375ded44687e58d3e9e7680e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.011
+    second: {fileID: 2100000, guid: b0a58be9f0446d248b3faf395ab1541c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.012
+    second: {fileID: 2100000, guid: 5c89ac92b68efd0448f0d7780875ccc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.013
+    second: {fileID: 2100000, guid: 2dea29cd28d36044e935a68e68fdc6e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.014
+    second: {fileID: 2100000, guid: 0c0c6eb397e91f84caeb2a8e1c853e6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.015
+    second: {fileID: 2100000, guid: 6e9dcba1d59d71c439b9feaf91e78d48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.016
+    second: {fileID: 2100000, guid: 6817d10872bee6e4180df6321a2f0e29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.017
+    second: {fileID: 2100000, guid: 75950b3993389eb45bc133e06865b70e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.018
+    second: {fileID: 2100000, guid: 457108364b902214cb39ca235975d8fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.019
+    second: {fileID: 2100000, guid: 3fc6eaac6e9a74b4e9096023b8d4dbb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.020
+    second: {fileID: 2100000, guid: 174ca8815e255ae44b90e099b687db63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.021
+    second: {fileID: 2100000, guid: a6ac2637a25f31946a0e7bdbba74d2e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.022
+    second: {fileID: 2100000, guid: 28c2ee33d42ec7e418f1c505959cc035, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.023
+    second: {fileID: 2100000, guid: 4c17be1724519814bbf871b93a90d530, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.024
+    second: {fileID: 2100000, guid: be1eb68fbec8e7a42934de772c652aa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.025
+    second: {fileID: 2100000, guid: 3207d8923c971b24fa19963782b3bf45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.026
+    second: {fileID: 2100000, guid: e46e5312e2b16834491cde66a7217c3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.027
+    second: {fileID: 2100000, guid: bafdf5d952680284b990d1a9c4361d0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.028
+    second: {fileID: 2100000, guid: b34d752a60fe3044a89b808272777049, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.029
+    second: {fileID: 2100000, guid: 2889a7402aa4bcb4aa08608969f7a478, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.030
+    second: {fileID: 2100000, guid: aae86a480bd427140ba33402418cdaae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.031
+    second: {fileID: 2100000, guid: 4805cbc2b11a1aa409c13eaedd0c5d11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.032
+    second: {fileID: 2100000, guid: 875b358bad7f8c34cba7292c901145c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.033
+    second: {fileID: 2100000, guid: 239a56f831e78774c8ed7742d8741b13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.034
+    second: {fileID: 2100000, guid: 6bbaed5e68617554894c1e65b1372408, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.035
+    second: {fileID: 2100000, guid: dac80a66850a9544fbde60ddd9137f93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.036
+    second: {fileID: 2100000, guid: 3e7bc2b941db2de4fabab8a24680b730, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.037
+    second: {fileID: 2100000, guid: c3c6088fac7e1f9469ed6a058ff140f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.038
+    second: {fileID: 2100000, guid: 73a58c743f8b9b2478b058574e8bff6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.039
+    second: {fileID: 2100000, guid: bf0c012d42ce918499647d7c753afd17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.040
+    second: {fileID: 2100000, guid: bc106c8fe84a71c4dbbb2b5f3d1a639d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.041
+    second: {fileID: 2100000, guid: 382e2f5ceaac9ee4ea05d6ced4b1c615, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.042
+    second: {fileID: 2100000, guid: a683655824fda184db5c2a3a316c47ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.043
+    second: {fileID: 2100000, guid: 1135f1b00cb7f2844b21092d99188cca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.044
+    second: {fileID: 2100000, guid: 8a5d768bdc43d304ebbc9a77555d6994, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.045
+    second: {fileID: 2100000, guid: 49f834d4a4144a244ae2c94669f1bd4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.046
+    second: {fileID: 2100000, guid: 10ef31f7b5bbb504f89a6120f2a1dedf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.047
+    second: {fileID: 2100000, guid: ad6e72b36c79bd149ba5540d52b368c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.048
+    second: {fileID: 2100000, guid: 86aa9244db9211649934f21e724b2080, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.049
+    second: {fileID: 2100000, guid: f28faf1dfbf046e4288d0a3711ba98fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.050
+    second: {fileID: 2100000, guid: 994399086aaeb414385aba2a78477fe8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.051
+    second: {fileID: 2100000, guid: e6011526657240446ad7ad5c16497687, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.052
+    second: {fileID: 2100000, guid: 66c509419e621db4f8170c80c1155c2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.053
+    second: {fileID: 2100000, guid: e3f94923ad1331049887254c226f5d66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.054
+    second: {fileID: 2100000, guid: b382682825c8d3140b32a4bc1c492585, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.055
+    second: {fileID: 2100000, guid: 6c2fc7fd6caa7084598e8c923ed108a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.056
+    second: {fileID: 2100000, guid: 07d6da70e495f3646a02a8d5e907f1e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.057
+    second: {fileID: 2100000, guid: 07e14b8f7583d524eac0d4026396b114, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.058
+    second: {fileID: 2100000, guid: 1f8cc166a2fa6464b934883bda78e662, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.059
+    second: {fileID: 2100000, guid: 598a301f2ce883f42bf886b3887556ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.060
+    second: {fileID: 2100000, guid: 54298ebfe9191f447854393634648cf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.061
+    second: {fileID: 2100000, guid: 6e8e8c65fd367e048b1056b9cdc7696e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.062
+    second: {fileID: 2100000, guid: 31d5bd91b4f42b043a132f2f582aa8e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.063
+    second: {fileID: 2100000, guid: 556c3c874b0bc664584f60787378de17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.064
+    second: {fileID: 2100000, guid: bf88f4ed5a07264458475cc03d1c0c85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.065
+    second: {fileID: 2100000, guid: 414d6444864631d40867e6b2e91fc448, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.066
+    second: {fileID: 2100000, guid: 2f872a19752efbd4689e8756435d4168, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.067
+    second: {fileID: 2100000, guid: cf9e80df7529a554db544d37359b1e9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.068
+    second: {fileID: 2100000, guid: 07633ae17df1d2f448d5e656a4331f07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.069
+    second: {fileID: 2100000, guid: 1bf05e9df5a47c34580727db94462ae4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.070
+    second: {fileID: 2100000, guid: b5c2be3ee170eb94fad1b752c6baa8d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.071
+    second: {fileID: 2100000, guid: 8de828c7b73fb9b428955f8d84b899b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.072
+    second: {fileID: 2100000, guid: 22d35152efdb7ad4da7fefdf6b60258e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.073
+    second: {fileID: 2100000, guid: 12e902cda45ec824487e27856cad880a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.074
+    second: {fileID: 2100000, guid: 8644bdb5549178442a9a2557d7756258, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.075
+    second: {fileID: 2100000, guid: 4e8339ed3c37e3d43bfe6799387731d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.076
+    second: {fileID: 2100000, guid: 576f2dcdbae392943a7020125e84ce47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.077
+    second: {fileID: 2100000, guid: 72ff287ba44ab7a4c892049728ff895a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.078
+    second: {fileID: 2100000, guid: b22e40eef62ed6d4ab6e7d0f3db41f25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.079
+    second: {fileID: 2100000, guid: 1ef3d23d0bfdf524fbd6538cc86a9511, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.080
+    second: {fileID: 2100000, guid: 3f7dcb922d9bdb94b93039739a3e9c99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.081
+    second: {fileID: 2100000, guid: a443f2791f66056439609fb80c99e5ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.082
+    second: {fileID: 2100000, guid: 98d76fec07baf1d4381e4e6f07d64596, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.083
+    second: {fileID: 2100000, guid: a07ce2a4791c0ae48b0e5e8d5371ded1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.084
+    second: {fileID: 2100000, guid: 540ee750cd5991448a3f34c232499cc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.085
+    second: {fileID: 2100000, guid: 9ae5498afabe3cb4c9b9b0cf8ec8a47d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.086
+    second: {fileID: 2100000, guid: 99399d04e7f270e438865f8c1388aad3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.087
+    second: {fileID: 2100000, guid: 7dc5b92a338d96840872e6b8757b45b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.088
+    second: {fileID: 2100000, guid: 22e1550815ef14d4d9f4c27288e4a2ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.089
+    second: {fileID: 2100000, guid: 8f87ca4494d3424429f0596141bd6c8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.090
+    second: {fileID: 2100000, guid: 8233cb695eaf8704896bf1c0f1fd7f09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.091
+    second: {fileID: 2100000, guid: 70437935323ec6e4ea5f3ba9aadc8441, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.092
+    second: {fileID: 2100000, guid: 263190f96bab457459d3393fed1a9be0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.093
+    second: {fileID: 2100000, guid: fa3e1580d3389174e81715bc0a671912, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.094
+    second: {fileID: 2100000, guid: da7ab6b4400c0d847af34b4d2c36486b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.095
+    second: {fileID: 2100000, guid: 396fcd3d88e83b745a2abe57d8eb17a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.096
+    second: {fileID: 2100000, guid: b615ac9c5392a9b4097eac2e8b61c1c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.097
+    second: {fileID: 2100000, guid: e32941123ac36914a823c1befe77e015, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.098
+    second: {fileID: 2100000, guid: 954b3665a7ea44d409cf1f8b35047052, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.099
+    second: {fileID: 2100000, guid: 58b891f7500e3c14389c8d7a4d569076, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.100
+    second: {fileID: 2100000, guid: 5fe1ad15d26a88d4981350a31f67aeca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.101
+    second: {fileID: 2100000, guid: cc5f70ba911b3984aae2e0c0730b28c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.102
+    second: {fileID: 2100000, guid: 09b78914eeb18f046a136f19a130986a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.103
+    second: {fileID: 2100000, guid: a5585a3f7eb562c45ac92cd04692fa15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.104
+    second: {fileID: 2100000, guid: c7da928ce4fd1cb449ed6dfe4c6d7d6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.105
+    second: {fileID: 2100000, guid: b2e2f3f2fcf463d47a78759a9206f8da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.106
+    second: {fileID: 2100000, guid: 94612978c38545e43b53ea7ec0d8eaa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.107
+    second: {fileID: 2100000, guid: 163aa46337d9e5a49981f6af33516dd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.108
+    second: {fileID: 2100000, guid: a79dfd27d4df4b14ead9e2516507c80c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.109
+    second: {fileID: 2100000, guid: 3cbff8fb9e6f6cc4498b634b5699f7a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sm0029_Bottle01A_Mat.110
+    second: {fileID: 2100000, guid: 15c3c0be473730841b499935387d73c5, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
